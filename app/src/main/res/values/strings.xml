@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">仿知乎日报</string>
+
+    <string name="menu_settings">haha</string>
+    <string name="menu_about_us">menu_about_us</string>
+    <string name="fragment">碎片</string>
+</resources>
